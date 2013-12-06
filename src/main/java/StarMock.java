@@ -88,6 +88,6 @@ public class StarMock {
         }
 
         byte[] recvbuf = mock.call((strLen + message).getBytes("GBK"));
-        System.out.printf("服务器返回：%s\n", new String(recvbuf, "GBK"));
+        System.out.printf("服务器返回报文：%s\n", new String(recvbuf, "GBK"));
     }
 }

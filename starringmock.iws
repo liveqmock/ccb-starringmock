@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b76c9e7-b1f9-417f-82c7-89ea633134a2" name="Default" comment="" />
+    <list default="true" id="0b76c9e7-b1f9-417f-82c7-89ea633134a2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/StarMock.java" afterPath="$PROJECT_DIR$/src/main/java/StarMock.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/starringmock.ipr" afterPath="$PROJECT_DIR$/starringmock.ipr" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/starringmock.iws" afterPath="$PROJECT_DIR$/starringmock.iws" />
+    </list>
     <ignored path="starringmock.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/StarMock.java" changelist="0b76c9e7-b1f9-417f-82c7-89ea633134a2" time="1386319230039" ignored="false" />
-    <file path="/Dummy.txt" changelist="0b76c9e7-b1f9-417f-82c7-89ea633134a2" time="1386119494322" ignored="false" />
+    <file path="/Dummy.txt" changelist="0b76c9e7-b1f9-417f-82c7-89ea633134a2" time="1386322061102" ignored="false" />
     <file path="$PROJECT_DIR$/../../../git-linking/src/fbi-linking/main/java/apps/fisjz/online/action/AbstractTxnAction.java" changelist="0b76c9e7-b1f9-417f-82c7-89ea633134a2" time="1385362199958" ignored="false" />
     <file path="$PROJECT_DIR$/../../../svn-qdccbloan/srctmptest/ccbloan_v4.0/webRoot/WEB-INF/web.xml" changelist="0b76c9e7-b1f9-417f-82c7-89ea633134a2" time="1385367065688" ignored="false" />
     <file path="/*.regexp" changelist="0b76c9e7-b1f9-417f-82c7-89ea633134a2" time="1386315639234" ignored="false" />
@@ -254,7 +258,7 @@
       <file leaf-file-name="StarMock.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/StarMock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="79" column="36" selection-start="2166" selection-end="2166" vertical-scroll-proportion="1.7274306">
+            <state line="86" column="55" selection-start="2410" selection-end="2410" vertical-scroll-proportion="0.546875">
               <folding />
             </state>
           </provider>
@@ -266,6 +270,14 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -290,7 +302,7 @@
     <option name="width" value="1378" />
     <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -330,7 +342,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="starringmock" />
+              <option name="myItemId" value="ccb-starringmock" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -340,7 +352,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="starringmock" />
+              <option name="myItemId" value="ccb-starringmock" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -369,7 +381,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="MavenSettings" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../svn-fbihmfs/src/fbihmfs-jiaonan" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -377,9 +389,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RunManager" selected="Application.StarMock">
     <configuration default="false" name="StarMock" type="Application" factoryName="Application" temporary="true">
@@ -474,6 +486,24 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="true">C:\Users\zhanrui\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="0b76c9e7-b1f9-417f-82c7-89ea633134a2" name="Default" comment="" />
@@ -580,6 +610,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/StarMock.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StarMock.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="53" column="126" selection-start="1442" selection-end="1442" vertical-scroll-proportion="0.0">
           <folding />
         </state>
@@ -594,7 +631,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/StarMock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="36" selection-start="2166" selection-end="2166" vertical-scroll-proportion="1.7274306">
+        <state line="86" column="55" selection-start="2410" selection-end="2410" vertical-scroll-proportion="0.546875">
           <folding />
         </state>
       </provider>
